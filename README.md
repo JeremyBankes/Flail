@@ -8,8 +8,6 @@
 
 A simple Java AWT platforming game with 2d tile-based world loading, physics and animations.
 
-This game was written over a week for my final project for my Advanced Object Oriented Programming course during my IT Programming diploma.
-
 ![cover image][cover]
 
 [cover]: https://github.com/JeremyBankes/Flail/raw/main/res/textures/cover.png
